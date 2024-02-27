@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-serif-theme",
-  "version": "1.2.0",
-  "author": "Robert Austin <rob@zerostatic.io>",
+  "name": "gatsby-demo-theme",
+  "version": "1.0.0",
+  "author": "Matt",
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
